@@ -79,7 +79,7 @@ Berisi:
 
 Menjelaskan:
 - **Tujuan pengembangan sistem monitoring kualitas udara.**  
-- **Metode dan model prediksi** (misalnya regresi linear berganda).  
+- **Metode dan model prediksi** (regresi linear berganda).  
 - **Sumber dan pembagian data**, serta **evaluasi model (R² dan RMSE)**.  
 - **Kategori ISPU** dengan warna dan batas nilai masing-masing.  
 - **Informasi sensor yang digunakan**, yaitu:
